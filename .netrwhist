@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/gyeh/Dropbox/code/go/src/github.com/golang/groupcache'
+let g:netrw_dirhist_2='/private/etc/ups'
+let g:netrw_dirhist_3='/Users/gyeh/Dropbox/code/go/src/github.com/gogits/gogs'
+let g:netrw_dirhist_4='/Users/gyeh/Dropbox/code/go/src/github.com/gogits/gogs/models'
+let g:netrw_dirhist_5='/Users/gyeh/Dropbox/code/go/src/github.com/gogits/gogs'
